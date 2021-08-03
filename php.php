@@ -5,7 +5,7 @@
 class Operator {
 
     /**
-     * Складываем два операнда
+     * Складываем два sdfsdfоперанда
      * @param intedddrge
      * @return interge
      */
