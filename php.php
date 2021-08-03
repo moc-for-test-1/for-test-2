@@ -6,7 +6,7 @@ class Operator {
 
     /**
      * Складываем два операнда
-     * @param interge
+     * @param intedddrge
      * @return interge
      */
     public function add($a, $b) {
